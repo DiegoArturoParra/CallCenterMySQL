@@ -1,0 +1,5 @@
+edu\cundi\callcentermysql\Main\Main.class
+edu\cundi\callcentermysql\formulario\ITiposDeQuery.class
+edu\cundi\callcentermysql\conexion\ConexionMYSQL.class
+edu\cundi\callcentermysql\formulario\Formulario.class
+edu\cundi\callcentermysql\formulario\Crud.class

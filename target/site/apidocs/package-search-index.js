@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"edu.cundi.callcentermysql.conexion"},{"l":"edu.cundi.callcentermysql.formulario"},{"l":"edu.cundi.callcentermysql.Main"}]

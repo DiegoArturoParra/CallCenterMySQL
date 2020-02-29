@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"edu.cundi.callcentermysql.conexion","l":"ConexionMYSQL"},{"p":"edu.cundi.callcentermysql.formulario","l":"Crud"},{"p":"edu.cundi.callcentermysql.formulario","l":"Formulario"},{"p":"edu.cundi.callcentermysql.formulario","l":"ITiposDeQuery"},{"p":"edu.cundi.callcentermysql.Main","l":"Main"}]
